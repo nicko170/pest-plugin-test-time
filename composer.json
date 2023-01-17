@@ -17,7 +17,7 @@
     "require": {
         "php": "^8.0",
         "nesbot/carbon": "^2.50",
-        "pestphp/pest": "^1.10",
+        "pestphp/pest": "^1.10 || ^2.0",
         "spatie/test-time": "^1.2"
     },
     "autoload": {
